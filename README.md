@@ -14,7 +14,7 @@
  <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p
                                                                                                              
                                                                                                             
-### Redes Sociales
+## Redes Sociales
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fille__celebre)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arianne-tejada-18b1342b1)  
@@ -54,11 +54,9 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
   </a>
 </p>
-
-
-</p>
 <hr>
 <p>
+
  <p align="center">
   <a href="https://github.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="60" height="60"/>
@@ -66,21 +64,7 @@
   <a href="https://www.google.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="60" height="60"/>
   </a>
-  <a href="https://www.apple.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_%28black%29.svg" alt="Apple" width="60" height="60"/>
-  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="60" height="60"/>
   </a>
 </p>
-
-<style>
-  p a {
-    margin: 20px;
-    transition: transform 0.3s ease-in-out;
-  }
-
-  p a:hover {
-    transform: scale(1.2);
-  }
-</style>
